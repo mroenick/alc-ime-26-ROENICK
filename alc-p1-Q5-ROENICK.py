@@ -96,4 +96,3 @@ if __name__ == "__main__":
     print(U)
     print("\nVetor Solução x (coluna):")
     print(x)
-    print(f"Shape do vetor x: {x.shape}")a
